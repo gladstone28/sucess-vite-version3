@@ -32,3 +32,6 @@ https://www.youtube.com/watch?v=KU-I2M9Jm68&list=PLSsAz5wf2lkK_ekd0J__44KG6QoXet
 React For Beginners 14 : Rendering Array Of Objects In React 
 
 https://www.youtube.com/watch?v=KBGUaQAg2Fc&list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza&index=14
+
+
+![](./screenshot-3.jpg)
